@@ -1,0 +1,18 @@
+
+prop it/README.md
+prop it/public/robots.txt
+prop it/public/manifest.json
+prop it/public/logo512.png
+prop it/public/logo192.png
+prop it/public/favicon.ico
+prop it/package-lock.json
+prop it/package.json
+prop it.rar
+event/src/logo.svg
+event/README.md
+event/public/robots.txt
+event/package-lock.json
+event/package.json
+event/public/favicon.ico
+event/public/logo512.png
+event/public/logo192.png
